@@ -17,6 +17,7 @@ public class Pa2U1P5LrDeberApplication implements CommandLineRunner {
 		System.out.println("Programación Avanzada 2");
 		System.out.println("Deber 2, uso de GitHub");
 		System.out.println("Leonardo Ramirez");
+		System.out.println("Cambio primer commit");
 	}
 
 }
